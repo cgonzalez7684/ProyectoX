@@ -8,8 +8,7 @@ asdfasddd4156456
 
 Chris agrego
 
-<<<<<<< HEAD
 Chris otra ves
-=======
-Directo con el usuario
->>>>>>> 8c6520c68f5519fd0676618e07ba18b05e32ab67
+
+
+Una linea mas
